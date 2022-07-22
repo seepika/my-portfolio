@@ -30,7 +30,7 @@
 
 .sidebar nav ul li a{
  text-decoration: none;
-    color:rgb(8, 1, 1);
+    color:#fff;
     font-size: 18px;
 }
 
@@ -97,7 +97,7 @@
 }
 h1{
     font-family: 'Source Code Pro', monospace;
-   
+   color:#25a3dd;
     margin-bottom: 15px;
 }
 
@@ -180,10 +180,19 @@ font-size: 15px;
 }
 h2 {
     margin: 15px 0;
-    font-size: 18px;
+    font-size: 14px;
+    color:#25a3dd;
+    font-weight: bold;
 }
 .introinfo p{
     padding: 0 20px 0 0;
+    font-size: 14px;
+}
+
+.skillitem{
+    font-weight: bold;
+    font-size: 14px;
+    line-height: ;
 }
 /* hamburger css */
 .hamburger{
