@@ -211,7 +211,7 @@ h2 {
 
 @media (max-width:900px){
 .devpic{
-   display: none;
+   
 }
 .infomain{
     padding:0 25px;
@@ -219,9 +219,14 @@ h2 {
     flex-direction: column;
     margin-top: 100px;
     margin-left: 45px;
+    height: 100%;
 }
 .projectcontainer{
     margin-left: 45px;
+}
+.introcontainer {
+    flex-direction: column;
+    height: 100%;
 }
 }
 
